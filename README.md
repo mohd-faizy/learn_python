@@ -1,6 +1,26 @@
-# Basic_python_Notebooks
+### Hi there, I'm Faizy  👋
+
 This is a public repository for Jupyter notebooks with introductory tutorials in different aspects of Python programming. Please star us if you think it is useful:
 
+---
+
+## I'm 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Enthusiast & Electronics Engineer!
+
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Contribute more to Open Source projects
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/F4izy
+[linkedin]: https://www.linkedin.com/in/faizy-mohd-836573122/
+[StackExchange AI]: https://ai.stackexchange.com/users/36737/cypher
+
+---
 
 <a href="https://github.com/mohd-faizy/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" />
