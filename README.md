@@ -2,13 +2,16 @@
 
 This is a public repository for Jupyter notebooks with introductory tutorials in different aspects of Python programming. Please star us if you think it is useful:
 
+
 ---
 
-## I'm 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Enthusiast & Electronics Engineer!
+
+### I'm 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Enthusiast & Electronics Engineer!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
+---
 
 ### Connect with me:
 
@@ -21,12 +24,13 @@ This is a public repository for Jupyter notebooks with introductory tutorials in
 [linkedin]: https://www.linkedin.com/in/faizy-mohd-836573122/
 [StackExchange AI]: https://ai.stackexchange.com/users/36737/cypher
 
+
 ---
 
-<a href="https://github.com/mohd-faizy/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" />
-</a>
 
-<a href="https://github.com/mohd-faizy/00_Python_Notebooks_Concept">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact"/>
-</a>
+![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact)](https://github.com/mohd-faizy/github-readme-stats)
+
+
