@@ -8,7 +8,7 @@ This is a public repository for Jupyter notebooks with introductory tutorials in
 
 ### I'm 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Enthusiast & Electronics Engineer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ---
