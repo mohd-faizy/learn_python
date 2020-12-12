@@ -1,6 +1,9 @@
-# Modification_5
-# Upgrading the program to get the close matches
 
+# design the Interface
+# develop the word matching
+# modify my program
+
+# Python Dictionary
 import json
 from difflib import get_close_matches
 
