@@ -1,9 +1,9 @@
+# Python Dictionary
 
 # design the Interface
 # develop the word matching
-# modify my program
+# modify the program
 
-# Python Dictionary
 import json
 from difflib import get_close_matches
 
