@@ -2,7 +2,6 @@
 
 import random
 
-
 def draw_man(progress):
     if progress == 0:
         print("No hanged parts yet! :)")
@@ -123,6 +122,7 @@ else:  # we're out of the loop because we found or guessed the word
             word_progress[i] = word[i]
     else:  # "-" not in word progress
         print("You found the word! You win!")
+        
 # either way, show their final progress
 draw_man(incorrect)
 print(" ".join(word))
