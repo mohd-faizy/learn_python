@@ -13,7 +13,6 @@
 '''
 import random
 
-
 def hangman():
 
     word_list = random.choice(
