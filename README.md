@@ -6,6 +6,44 @@
 
 Python is a high-level, general-purpose and a very popular programming language.It was created by **Guido van Rossum** in **1991**. Python programming language (*latest Python 3*) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.
 
+### Python Data Structure
+
+<center>
+    <table style='font-family:"Courier New", Courier, monospace; font-size:100%'>
+        <tbody>
+            <tr>
+                <th colspan="1" scope="colgroup">Premitive</th>
+                <th colspan="2" scope="colgroup">Non-Premitive</th>
+            </tr>
+            <tr>
+                <th scope="col">&nbsp;</th>
+                <th scope="col">Built-in</th>
+                <th scope="col">User-defined</th>
+            </tr>
+            <tr>
+                <td>Integer</td>
+                <td>List</td>
+                <td>Stack</td>
+            </tr>
+            <tr>
+                <td>Float</td>
+                <td>Tuple</td>
+                <td>Queue</td>
+            </tr>
+            <tr>
+                <td>String</td>
+                <td>Dictionary</td>
+                <td>Tree</td>
+            </tr>
+            <tr>
+                <td>Boolean</td>
+                <td>Set</td>
+                <td>Graph</td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
 **Below are some facts about Python Programming Language:**
 
   1. Python is currently the most widely used multi-purpose,high-level programming language.
@@ -59,6 +97,7 @@ Programming in Python is easy and stress-free. But when we are interacting with 
 
 1. **Runtime Errors**
 As we know Python is a dynamically typed language so the data type of a variable can change anytime. A variable containing integer number may hold a string in the future, which can lead to Runtime Errors.
+
 
 Therefore Python programmers need to perform thorough testing of the applications.
 
