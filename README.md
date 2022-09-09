@@ -1,3 +1,11 @@
+[![author](https://img.shields.io/badge/author-mohd--faizy-red)](https://github.com/mohd-faizy)
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-markdown-blue)
+![Language](https://img.shields.io/github/languages/top/mohd-faizy/learn_python)
+![Maintained](https://img.shields.io/maintenance/yes/2022)
+![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/learn_python)
+[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/mohd-faizy/learn_python)
+![Size](https://img.shields.io/github/repo-size/mohd-faizy/learn_python)
+
 <p align='center'>
   <a href="#">
     <img src='https://github.com/mohd-faizy/learn_python/blob/master/_img/hw.png?raw=true'>
@@ -172,3 +180,19 @@ There are no separate compilation and execution steps likeCandC++.
 - The Python Standard Library is very vast.
 - Known as the"batteries included"philosophy of Python;It can help do various things involving regular expressions,documentation generation,unit testing, threading,databases,web browsers CGI,email,XML,HTML,WAV files, cryptography,GUI and many more.
 - Besides the standard library,there are various other high-quality libraries such as the Python Imaging Library which is an amazingly simple image manipulation library.
+
+### Connect with me:
+
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px"/>][twitter]
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/>][linkedin]
+[<img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px"/>][stackexchange ai]
+
+[twitter]: https://twitter.com/F4izy
+[linkedin]: https://www.linkedin.com/in/faizy-mohd-836573122/
+[stackexchange ai]: https://ai.stackexchange.com/users/36737/cypher
+
+---
+
+![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact)](https://github.com/mohd-faizy/github-readme-stats)
