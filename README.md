@@ -6,11 +6,10 @@
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/mohd-faizy/learn_python)
 ![Size](https://img.shields.io/github/repo-size/mohd-faizy/learn_python)
 
-<p align='center'>
-  <a href="#">
-    <img src='https://github.com/mohd-faizy/learn_python/blob/master/_img/hw.png?raw=true'>
-  </a>
-</p>
+
+```python
+print('Hello, world!')
+```
 
 Python is a high-level, general-purpose and a very popular programming language.It was created by **Guido van Rossum** in **1991**. Python programming language (_latest Python 3_) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.
 
