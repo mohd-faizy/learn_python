@@ -7,9 +7,17 @@
 ![Size](https://img.shields.io/github/repo-size/mohd-faizy/learn_python)
 
 <p align='center'>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
+</p>
+
+<p align='center'>
   <a href="#">
     <img src='_img\py_hw.png'>
   </a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
 </p>
 
 Python is a high-level, general-purpose and a very popular programming language.It was created by **Guido van Rossum** in **1991**. Python programming language (_latest Python 3_) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.
@@ -73,7 +81,7 @@ Python is a high-level, general-purpose and a very popular programming language.
    - _Scientific computing_
    - _Text processing and many more .._
 
-## Python Advantages and Disadvantages –
+## Python Advantages and Disadvantages 
 
 ### **Advantages of Python**:
 
@@ -188,6 +196,9 @@ There are no separate compilation and execution steps likeCandC++.
   </a>
 </p>
 
+<p align='center'>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
+</p>
 
 #### $\color{skyblue}{\textbf{Connect with me:}}$
 
@@ -199,12 +210,8 @@ There are no separate compilation and execution steps likeCandC++.
 [twitter]: https://twitter.com/F4izy
 [linkedin]: https://www.linkedin.com/in/mohd-faizy/
 [Portfolio]: https://mohdfaizy.com/
----
 
 
-<center> 
-<tr> 
-<td><img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" width=380px height=200px ></td> 
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact" width=380px height=200px /></td> 
-</tr>
-</center>
+
+
+
