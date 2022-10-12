@@ -6,10 +6,11 @@
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/mohd-faizy/learn_python)
 ![Size](https://img.shields.io/github/repo-size/mohd-faizy/learn_python)
 
-
-```python
-print('Hello, world!')
-```
+<p align='center'>
+  <a href="#">
+    <img src='_img\py_hw.png'>
+  </a>
+</p>
 
 Python is a high-level, general-purpose and a very popular programming language.It was created by **Guido van Rossum** in **1991**. Python programming language (_latest Python 3_) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.
 
@@ -180,18 +181,30 @@ There are no separate compilation and execution steps likeCandC++.
 - Known as the"batteries included"philosophy of Python;It can help do various things involving regular expressions,documentation generation,unit testing, threading,databases,web browsers CGI,email,XML,HTML,WAV files, cryptography,GUI and many more.
 - Besides the standard library,there are various other high-quality libraries such as the Python Imaging Library which is an amazingly simple image manipulation library.
 
-### Connect with me:
+#### **Python in One Pic**
+<p align='center'>
+  <a href="#">
+    <img src='_img\Python_CS.png'>
+  </a>
+</p>
 
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px"/>][twitter]
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/>][linkedin]
-[<img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px"/>][stackexchange ai]
+
+#### $\color{skyblue}{\textbf{Connect with me:}}$
+
+
+[<img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="32px"/>][twitter]
+[<img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="32px"/>][linkedin]
+[<img align="left" src="https://d31pjuirwqbaad.cloudfront.net/wp-content/uploads/2019/08/kissclipart-website-icon-png-clipart-computer-icons-ac62ecb3b8ae4d41.png?x61175" width="32px"/>][Portfolio]
 
 [twitter]: https://twitter.com/F4izy
-[linkedin]: https://www.linkedin.com/in/faizy-mohd-836573122/
-[stackexchange ai]: https://ai.stackexchange.com/users/36737/cypher
-
+[linkedin]: https://www.linkedin.com/in/mohd-faizy/
+[Portfolio]: https://mohdfaizy.com/
 ---
 
-![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact)](https://github.com/mohd-faizy/github-readme-stats)
+<center> 
+<tr> 
+<td><img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" width=380px height=200px ></td> 
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact" width=380px height=200px /></td> 
+</tr>
+</center>
