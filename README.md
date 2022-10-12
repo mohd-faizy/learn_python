@@ -16,9 +16,6 @@
   </a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
-</p>
 
 Python is a high-level, general-purpose and a very popular programming language.It was created by **Guido van Rossum** in **1991**. Python programming language (_latest Python 3_) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.
 
