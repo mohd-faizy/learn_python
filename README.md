@@ -211,5 +211,3 @@ There are no separate compilation and execution steps likeCandC++.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" width=380px height=200px />
-
