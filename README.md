@@ -16,7 +16,6 @@
   </a>
 </p>
 
-
 Python is a high-level, general-purpose and a very popular programming language.It was created by **Guido van Rossum** in **1991**. Python programming language (_latest Python 3_) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.
 
 ### Python Data Structure
@@ -78,9 +77,9 @@ Python is a high-level, general-purpose and a very popular programming language.
    - _Scientific computing_
    - _Text processing and many more .._
 
-## Python Advantages and Disadvantages 
+## Python Advantages and Disadvantages
 
-### **Advantages of Python**:
+### **Advantages of Python**
 
 1. Presence of third-party modules
 2. Extensive support libraries(**NumPy** for numerical calculations, **Pandas** for data analytics, etc.)
@@ -97,7 +96,7 @@ Python is a high-level, general-purpose and a very popular programming language.
 12. Interpreted Language
 13. Portable across Operating systems
 
-### **Disadvantages of Python**:
+### **Disadvantages of Python**
 
 1. **Slow Speed**
    We discussed above that Python is an interpreted language and dynamically-typed language. The line by line execution of code often leads to slow execution. The dynamic nature of Python is also responsible for the slow speed of Python because it has to do the extra work while executing code. So, Python is not used for purposes where speed is an important aspect of the project.
@@ -116,7 +115,7 @@ Python is a high-level, general-purpose and a very popular programming language.
 
 Therefore Python programmers need to perform thorough testing of the applications.
 
-### **Applications**:
+### **Applications**
 
 1. GUI-based desktop applications
 2. Graphic design, image processing applications, Games, and Scientific/ computational Applications
@@ -129,7 +128,7 @@ Therefore Python programmers need to perform thorough testing of the application
 9. Prototyping
 10. Software Developmen
 
-### **Organizations using Python**:
+### **Organizations using Python**
 
 1. Google(Components of Google spider and Search Engine)
 2. Yahoo(Maps)
@@ -175,7 +174,7 @@ There are no separate compilation and execution steps likeCandC++.
 - Python can be used with in C/C++ program to give scripting capabilities for the
   program's users.
 
-#### **Robust:**:
+#### **Robust:**
 
 - Exceptional handling features
 - Memory management techniques in built
@@ -186,28 +185,180 @@ There are no separate compilation and execution steps likeCandC++.
 - Known as the"batteries included"philosophy of Python;It can help do various things involving regular expressions,documentation generation,unit testing, threading,databases,web browsers CGI,email,XML,HTML,WAV files, cryptography,GUI and many more.
 - Besides the standard library,there are various other high-quality libraries such as the Python Imaging Library which is an amazingly simple image manipulation library.
 
-#### **Python in One Pic**
+## **Python in One Picture**
+
 <p align='center'>
   <a href="#">
     <img src='_img\Python_CS.png'>
   </a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
-</p>
+## ⭐Python `list` methods
+
+| Method                                      | Description                                                                                                                               |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 🟥**Adding and Removing Elements**            |                                                                                                                                         |
+| `append(x)`                                 | Add an element `x` to the end of the list.                                                                                                |
+| `clear()`                                   | Remove all items from the list.                                                                                                           |
+| `copy()`                                    | Return a shallow copy of the list.                                                                                                        |
+| `extend(iterable)`                          | Extend the list by appending all elements from an iterable (like another list or tuple).                                                  |
+| `insert(i, x)`                              | Insert an element `x` at a given position `i`. The first argument is the index of the element before which to insert.                     |
+| `pop(i=-1)`                                 | Remove and return the element at index `i` (defaults to the last element).                                                                |
+| `remove(x)`                                 | Remove the first item from the list whose value is equal to `x`. Raises a `ValueError` if there is no such item.                          |
+| 🟥**Ordering and Searching**                  |                                                                                                                                           |
+| `count(x)`                                  | Return the number of occurrences of element `x` in the list.                                                                              |
+| `index(x, i=0, j=len(list))`                | Return the index of the first occurrence of element `x` within the range `[i, j)`. Raises a `ValueError` if there is no such item.        |
+| `reverse()`                                 | Reverse the elements of the list in place.                                                                                                |
+| `sort(key=None, reverse=False)`             | Sort the items of the list in place (ascending by default). You can optionally provide a custom `key` function and specify reverse order. |
+| 🟥**Other List Operations**                   |                                                                                                                                           |
+| `__contains__(x)`                           | Check if an element `x` is present in the list (same as `in` operator).                                                                   |
+| `__getitem__(i)`                            | Access elements by index.                                                                                                                 |
+| `__setitem__(i, x)`                         | Assign elements to a specific index.                                                                                                      |
+| `__delitem__(i)`                            | Remove elements at a specific index.                                                                                                      |
+| `__len__()`                                 | Return the length (number of elements) of the list.                                                                                       |
+| 🟥**Additional Methods**                      |                                                                                                                                           |
+| `all(iterable)`                             | Return `True` if all elements of an iterable are true (often used with lists).                                                            |
+| `any(iterable)`                             | Return `True` if any element of an iterable is true (often used with lists).                                                              |
+| `enumerate(iterable, start=0)`              | Return an enumerate object that yields pairs of `(index, value)` for elements in an iterable (like a list).                               |
+| `filter(function, iterable)`                | Construct an iterator from elements of an iterable for which a function returns `True` (often used with lists).                           |
+| `map(function, iterable1, ...)`             | Apply a function to all elements of an iterable (like a list) and return an iterator.                                                     |
+| `min(iterable)`                             | Return the smallest item in an iterable (or the list).                                                                                    |
+| `max(iterable)`                             | Return the largest item in an iterable (or the list).                                                                                     |
+| `sum(iterable, start=0)`                    | Return the sum of elements of an iterable (like a list) or the `start` value.                                                             |
+| `sorted(iterable, key=None, reverse=False)` | Return a new sorted list from the items in an iterable (like a list).                                                                     |
+
+## ⭐Python `string` methods
+
+| Method                      | Description                                                                                                         |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 🟥**String Manipulation**     |                                                                                                                     |
+| Slicing                     | Extract substrings using square brackets `[]`.                                                                      |
+| Concatenation               | Combine strings using the `+` operator.                                                                             |
+| Membership Testing          | Check if a substring exists using the `in` operator.                                                                |
+| Formatting                  | Create formatted strings with f-strings or the `.format()` method.                                                  |
+| 🟥**Case Conversion**         |                                                                                                                     |
+| `upper()`                   | Convert all characters to uppercase.                                                                                |
+| `lower()`                   | Convert all characters to lowercase.                                                                                |
+| `title()`                   | Convert the first character of each word to uppercase.                                                              |
+| `capitalize()`              | Convert the first character of the string to uppercase.                                                             |
+| `swapcase()`                | Swap the case of all characters.                                                                                    |
+| 🟥**Whitespace Removal**      |                                                                                                                     |
+| `strip()`                   | Remove leading and trailing whitespaces.                                                                            |
+| `lstrip()`                  | Remove leading whitespaces.                                                                                         |
+| `rstrip()`                  | Remove trailing whitespaces.                                                                                        |
+| 🟥**Searching and Replacing** |                                                                                                                     |
+| `find(substring)`           | Find the index of the first occurrence of a substring.                                                              |
+| `rfind(substring)`          | Find the index of the last occurrence of a substring.                                                               |
+| `count(substring)`          | Count the number of occurrences of a substring.                                                                     |
+| `replace(old, new, count)`  | Replace occurrences of a substring with another substring (optional count).                                         |
+| 🟥**Splitting and Joining**   |                                                                                                                     |
+| `split(sep)`                | Split a string into a list of substrings using a separator.                                                         |
+| `rsplit(sep)`               | Split a string into a list of substrings, starting from the end.                                                    |
+| `join(iterable)`            | Join elements from an iterable (like a list) into a string using a separator.                                       |
+| 🟥**Alignment**               |                                                                                                                     |
+| `center(width, fillchar)`   | Center-align the string within a specified width using a fill character.                                            |
+| `ljust(width, fillchar)`    | Left-justify the string within a specified width using a fill character.                                            |
+| `rjust(width, fillchar)`    | Right-justify the string within a specified width using a fill character.                                           |
+| 🟥**Other Methods**           |                                                                                                                     |
+| `isalnum()`                 | Check if all characters are alphanumeric.                                                                           |
+| `isalpha()`                 | Check if all characters are alphabetic.                                                                             |
+| `isdigit()`                 | Check if all characters are digits.                                                                                 |
+| `islower()`                 | Check if all characters are lowercase.                                                                              |
+| `isupper()`                 | Check if all characters are uppercase.                                                                              |
+| `isspace()`                 | Check if all characters are whitespace.                                                                             |
+| `istitle()`                 | Check if the string is in title case.                                                                               |
+| `isidentifier()`            | Check if the string is a valid identifier.                                                                          |
+| `zfill(width)`              | Fill the string with zeros on the left side to a specified width.                                                   |
+| `expandtabs(tabsize)`       | Expand tabs in the string to spaces (default tab size is 8).                                                        |
+| `encode(encoding)`          | Encode the string using a specified encoding (e.g., 'utf-8').                                                       |
+| `decode(encoding)`          | Decode the string using a specified encoding (e.g., 'utf-8').                                                       |
+| `partition(sep)`            | Partition the string into three parts: a part before the first occurrence of sep, sep itself, and a part after sep. |
+| `rpartition(sep)`           | Partition the string from the right.                                                                                |
+| `startswith(prefix)`        | Check if the string starts with a specified prefix.                                                                 |
+| `endswith(suffix)`          | Check if the string ends with a specified suffix.                                                                   |
+| `index(substring)`          | Similar to find(), but raises a ValueError if the substring is not found.                                           |
+| `casefold()`                | Convert string to lowercase, suitable for case-insensitive comparisons.                                             |
+| `format_map(mapping)`       | Format the string using a mapping dictionary.                                                                       |
+
+## ⭐Python `dict` methods
+
+| Method                              | Description                                                                                                                                                                                                                                                                                                  |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🟥**Adding and Removing Items**       |                                                                                                                                                                                                                                                                                                              |
+| `clear()`                           | Remove all items from the dictionary.                                                                                                                                                                                                                                                                        |
+| `copy()`                            | Return a shallow copy of the dictionary.                                                                                                                                                                                                                                                                     |
+| `fromkeys(iterable, value=None)`    | Create a new dictionary with keys from iterable and values set to value (defaults to None).                                                                                                                                                                                                                  |
+| `pop(key, default=None)`            | Remove the item with the given key and return its value. If the key is not found, return the default value (defaults to None).                                                                                                                                                                               |
+| `popitem(last=True)`                | Remove and return a (key, value) pair from the dictionary. By default, removes the last inserted pair. You can set `last=False` to remove from the beginning.                                                                                                                                                |
+| `setdefault(key, default=None)`     | Return the value for the key if it exists. Otherwise, insert the key with the default value and return that value.                                                                                                                                                                                           |
+| 🟥**Retrieving and Modifying Values** |                                                                                                                                                                                                                                                                                                              |
+| `get(key, default=None)`            | Return the value for the key if it exists. Otherwise, return the default value (defaults to None).                                                                                                                                                                                                           |
+| `items()`                           | Return a view object of the dictionary's key-value pairs as tuples.                                                                                                                                                                                                                                          |
+| `keys()`                            | Return a view object of the dictionary's keys.                                                                                                                                                                                                                                                               |
+| `update(other, **kwargs)`           | Update the dictionary with key-value pairs from another dictionary (`other`) and optional keyword arguments (`**kwargs`).                                                                                                                                                                                    |
+| `values()`                          | Return a view object of the dictionary's values.                                                                                                                                                                                                                                                             |
+| 🟥**Membership and Lookups**          |                                                                                                                                                                                                                                                                                                              |
+| `__contains__(key)`                 | Check if a key exists in the dictionary (same as `in` operator).                                                                                                                                                                                                                                             |
+| `__getitem__(key)`                  | Get the value for the key. Raises a `KeyError` if the key is not found.                                                                                                                                                                                                                                      |
+| 🟥**Other Methods**                   |                                                                                                                                                                                                                                                                                                              |
+| `__setitem__(key, value)`           | Assign a value to a key.                                                                                                                                                                                                                                                                                     |
+| `__delitem__(key)`                  | Remove the key and its corresponding value. Raises a `KeyError` if the key is not found.                                                                                                                                                                                                                     |
+| `__len__()`                         | Return the number of items in the dictionary.                                                                                                                                                                                                                                                                |
+| 🟥**Additional Considerations**       |                                                                                                                                                                                                                                                                                                              |
+|                                     | Dictionary methods typically return view objects, which provide a dynamic view of the dictionary's contents. Modifying the dictionary while iterating over a view object might raise errors. Consider creating a copy of the view object or the dictionary itself if you need to modify it during iteration. |
+
+## ⭐Python `tuple` methods
+
+| Method                              | Description                                                                                                                                                                                       |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `count(x)`                          | This method counts the number of occurrences of the element `x` within the tuple.                                                                                                                 |
+|                                     | Example: `my_tuple = (1, 2, 3, 2, 1)` `count(2)` will return `2`                                                                                                                                  |
+| `index(x, start=0, end=len(tuple))` | This method returns the index of the first occurrence of the element `x` within the specified range `[start, end]`. Raises a `ValueError` if the element is not found.                            |
+|                                     | Example: `my_tuple = ("apple", "banana", "cherry", "banana")` `index("banana")` will return `1` (index of the first "banana") `index("banana", 2)` will return `3` (index of the second "banana") |
+| 🟥**Additional Considerations**       |                                                                                                                                                                                                   |
+|                                     | Since tuples are immutable, methods like `append`, `insert`, `remove`, or `pop` (used for modifying lists) are not available for tuples.                                                          |
+|                                     | You can use techniques like creating a new tuple with the desired modifications or converting the tuple to a list, modifying the list, and then converting it back to a tuple if needed.          |
+|                                     | For more information on tuples and their properties, you can refer to the official Python documentation.                                                                                          |
+
+## ⭐python `set` methods
+
+| Method                               | Description                                                                                                                                                                                                                                                                                |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🟥**Adding Elements**                  |                                                                                                                                                                                                                                                                                            |
+| `add(element)`                       | Adds an element to the set. Since sets cannot have duplicates, if the element already exists, nothing happens.                                                                                                                                                                             |
+| 🟥**Removing Elements**                |                                                                                                                                                                                                                                                                                            |
+| `clear()`                            | Removes all elements from the set.                                                                                                                                                                                                                                                         |
+| `discard(element)`                   | Removes the element from the set if it exists. If the element is not present, no error is raised (unlike `remove`).                                                                                                                                                                        |
+| `pop(element=None)`                  | Removes and returns an arbitrary element from the set. Raises a `KeyError` if the set is empty. You can optionally specify an element to remove, but if it's not found, a `KeyError` is still raised.                                                                                      |
+| `remove(element)`                    | Removes the element from the set. Raises a `KeyError` if the element is not present.                                                                                                                                                                                                       |
+| 🟥**Modifying Sets**                   |                                                                                                                                                                                                                                                                                            |
+| `update(iterable)`                   | Updates the set by adding elements from an iterable (like another set or list). Duplicates are removed.                                                                                                                                                                                    |
+| 🟥**Set Operations (Return New Sets)** |                                                                                                                                                                                                                                                                                            |
+| `difference(other)`                  | Returns a new set with elements in the first set but not in `other`.                                                                                                                                                                                                                       |
+| `difference_update(other)`           | Removes elements from the set that are also in `other`. Modifies the original set.                                                                                                                                                                                                         |
+| `intersection(other)`                | Returns a new set with elements common to both sets.                                                                                                                                                                                                                                       |
+| `intersection_update(other)`         | Updates the set to contain only elements also present in `other`. Modifies the original set.                                                                                                                                                                                               |
+| `symmetric_difference(other)`        | Returns a new set with elements that are in either set but not in both.                                                                                                                                                                                                                    |
+| `symmetric_difference_update(other)` | Updates the set with elements that are in either set but not in both. Modifies the original set.                                                                                                                                                                                           |
+| `union(other)`                       | Returns a new set with elements from both sets. Duplicates are not removed.                                                                                                                                                                                                                |
+| `isdisjoint(other)`                  | Returns `True` if the sets have no common elements, `False` otherwise.                                                                                                                                                                                                                     |
+| `issubset(other)`                    | Returns `True` if all elements in the set are also in `other`, `False` otherwise.                                                                                                                                                                                                          |
+| `issuperset(other)`                  | Returns `True` if all elements in `other` are also in the set, `False` otherwise.                                                                                                                                                                                                          |
+| 🟥**Other Methods**                    |                                                                                                                                                                                                                                                                                            |
+| `copy()`                             | Returns a shallow copy of the set.                                                                                                                                                                                                                                                         |
+| `pop()`                              | Same as the `pop` method mentioned earlier (removes and returns an arbitrary element).                                                                                                                                                                                                     |
+| 🟥**Additional Considerations**        |                                                                                                                                                                                                                                                                                            |
+|                                      | Since sets are unordered collections, the order in which elements are added or removed might not be reflected in the set's contents. Methods that return new sets (`difference`, `intersection`, `symmetric_difference`, and `union`) create new sets without modifying the original ones. |
 
 
 #### $\color{skyblue}{\textbf{Connect with me:}}$
 
-
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="32px"/>][twitter]
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="32px"/>][linkedin]
-[<img align="left" src="https://d31pjuirwqbaad.cloudfront.net/wp-content/uploads/2019/08/kissclipart-website-icon-png-clipart-computer-icons-ac62ecb3b8ae4d41.png?x61175" width="32px"/>][Portfolio]
+[<img align="left" src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" width="32px"/>][Portfolio]
 
 [twitter]: https://twitter.com/F4izy
 [linkedin]: https://www.linkedin.com/in/mohd-faizy/
 [Portfolio]: https://mohdfaizy.com/
 
 ---
-
