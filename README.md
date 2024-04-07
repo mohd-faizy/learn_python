@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-mohd--faizy-red)](https://github.com/mohd-faizy)
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-markdown-blue)
 ![Language](https://img.shields.io/github/languages/top/mohd-faizy/learn_python)
-![Maintained](https://img.shields.io/maintenance/yes/2022)
+![Maintained](https://img.shields.io/maintenance/yes/2024)
 ![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/learn_python)
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/mohd-faizy/learn_python)
 ![Size](https://img.shields.io/github/repo-size/mohd-faizy/learn_python)
@@ -359,6 +359,7 @@ There are no separate compilation and execution steps likeCandC++.
 
 [twitter]: https://twitter.com/F4izy
 [linkedin]: https://www.linkedin.com/in/mohd-faizy/
-[Portfolio]: https://mohdfaizy.com/
+[Portfolio]: https://ai.stackexchange.com/users/36737/faizy?tab=profile
 
 ---
+
