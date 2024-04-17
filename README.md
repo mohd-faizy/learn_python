@@ -6,9 +6,7 @@
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/mohd-faizy/learn_python)
 ![Size](https://img.shields.io/github/repo-size/mohd-faizy/learn_python)
 
-<p align='center'>
-  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
-</p>
+
 
 <p align='center'>
   <a href="#">
@@ -363,3 +361,5 @@ There are no separate compilation and execution steps likeCandC++.
 
 ---
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" width=380px height=200px />
