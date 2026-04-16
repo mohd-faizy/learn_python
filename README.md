@@ -68,6 +68,54 @@ The curriculum is divided into the following structured directories:
 
 ---
 
+## 🗺️ Learning Roadmap
+
+```mermaid
+flowchart TD
+    Start((Start Here)) --> L1
+    
+    subgraph Core_Learning [Core Learning Phase]
+        L1[01 Fundamentals & Basics] --> L2[02 Foundations]
+        L2 --> L3[03 Object-Oriented Programming]
+    end
+    
+    subgraph Applied_Projects [Applied Projects Phase]
+        L4[04 Basic Projects]
+        L5[05 Intermediate Projects]
+        L6[06 Advanced Projects]
+    end
+    
+    subgraph Advanced_Topics [Advanced Topics Phase]
+        L7[08 Advanced Python]
+        L8[09 New in Python]
+    end
+    
+    subgraph Continuous_Practice [Continuous Practice]
+        P1[07 Practice Set]
+        P2[10 Miscellaneous]
+        P3[_Python_Cheatsheets]
+    end
+
+    L3 --> L4
+    L4 --> L5
+    L5 --> L6
+    
+    L3 --> L7
+    L7 -.-> L8
+```
+
+---
+
+## 🖼️ Python in One Picture
+
+<p align='center'>
+  <a href="#">
+    <img src='_img/Python_CS.png' alt="Python Cheat Sheet">
+  </a>
+</p>
+
+---
+
 ## 🚀 Getting Started
 
 To get started with the resources in this repository, clone it to your local machine:
