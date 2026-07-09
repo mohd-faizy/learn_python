@@ -63,8 +63,15 @@ The curriculum is divided into the following structured directories:
 - **[`10_Python_Miscellaneous`](./10_Python_Miscellaneous/)**
   A variety of helpful scripts, snippets, and edge-case explorations.
 
+- **[`11_PyInterQue`](./11_PyInterQue/)**
+  Python Interview Questions and notebook-based practice queries.
+
+- **[`12_PyPi_Pkg`](./12_PyPi_Pkg/)**
+  Step-by-step guides and code for building and publishing Python packages to PyPI.
+
 - **[`_Python_Cheatsheets`](./_Python_Cheatsheets/)**
   Quick-reference guides formulated for rapid review of syntax and libraries.
+
 
 ---
 
@@ -85,15 +92,17 @@ flowchart TD
         L6[06 Advanced Projects]
     end
     
-    subgraph Advanced_Topics [Advanced Topics Phase]
+    subgraph Advanced_Topics [Advanced Topics & Packaging]
         L7[08 Advanced Python]
         L8[09 New in Python]
+        L9[12 PyPI Package]
     end
     
-    subgraph Continuous_Practice [Continuous Practice]
+    subgraph Continuous_Practice [Continuous Practice & Prep]
         P1[07 Practice Set]
         P2[10 Miscellaneous]
-        P3[_Python_Cheatsheets]
+        P3[11 Interview Prep]
+        P4[_Python_Cheatsheets]
     end
 
     L3 --> L4
@@ -102,6 +111,7 @@ flowchart TD
     
     L3 --> L7
     L7 -.-> L8
+    L8 -.-> L9
 ```
 
 ---

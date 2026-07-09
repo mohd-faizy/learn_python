@@ -194,4 +194,49 @@ uv publish --token <YOUR_TOKEN>
 * **Before:** New wheels sit unpublished.
 * **After:** Version `0.1.1` is successfully uploaded to PyPI. Users can now run `pip install --upgrade autoedapkd` to get the latest features!
 
+---
+
+### Package Link
+You can view and install this package directly from PyPI:
+**[https://pypi.org/project/autoedapkd/](https://pypi.org/project/autoedapkd/)**
+
+---
+
+# Running and Using the Package: Part 3
+
+If you want to run the package locally using the example runner script `run_EDA.py` , follow these steps to set up your environment:
+
+### Step 1: Initialize the environment (Optional/First time)
+If you haven't initialized the project space yet, you can do so using:
+```bash
+uv init
+```
+
+### Step 2: Create a Virtual Environment
+Create a virtual environment to isolate your dependencies:
+```bash
+uv venv
+```
+
+### Step 3: Activate the Virtual Environment
+Activate the environment (Windows PowerShell/CMD):
+* **PowerShell**:
+  ```powershell
+  .venv\Scripts\activate
+  ```
+
+
+### Step 4: Install Dependencies from `requirements.txt`
+Install the package dependencies into your virtual environment:
+```bash
+uv pip install -r requirements.txt
+```
+*(Or manually add `autoedapkd` directly using `uv add autoedapkd`)*
+
+### Step 5: Navigate and Run the Script
+Navigate into the `12_PyPi_Pkg` folder (if you aren't already in it) and run the `run_EDA.py` script:
+```bash
+cd 12_PyPi_Pkg/run_autoEDA
+python run_EDA.py
+```
 

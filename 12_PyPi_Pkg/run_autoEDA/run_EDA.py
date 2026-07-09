@@ -1,6 +1,6 @@
 import pandas as pd
 import seaborn as sns
-from autoeda_faizymohd import perform_eda
+from autoedapkd import perform_eda
 
 def main():
     print("Loading the Titanic dataset for demonstration...")
