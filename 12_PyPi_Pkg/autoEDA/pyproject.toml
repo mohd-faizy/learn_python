@@ -1,0 +1,22 @@
+[project]
+name = "autoedapkd"
+version = "0.1.1"
+description = "An Automated Exploratory Data Analysis (EDA) Tool"
+readme = "README.md"
+authors = [
+    { name = "mohd-faizy", email = "ifaizymohd@gmail.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.11.0",
+    "numpy>=2.5.1",
+    "pandas>=3.0.3",
+    "seaborn>=0.13.2",
+]
+
+[project.scripts]
+autoeda = "autoedapkd:main"
+
+[build-system]
+requires = ["uv_build>=0.11.25,<0.12.0"]
+build-backend = "uv_build"
